@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99782068172",
+    "project_id": "dsm-foro2-92721",
+    "storage_bucket": "dsm-foro2-92721.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99782068172:android:f3fd19f54d5041045abf69",
+        "android_client_info": {
+          "package_name": "com.example.dsm_foro2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99782068172-gk4vspdhq2if00vbgiddav8lq7pvs0mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJO69lkYZozCbaiB_zK-y_F8mJyC_DCmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99782068172-gk4vspdhq2if00vbgiddav8lq7pvs0mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
